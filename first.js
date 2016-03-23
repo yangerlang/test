@@ -1,4 +1,4 @@
 function first(){
-console.log("hello world!");
+console.log("good morning world!");
 console.log("my first update");
 }
